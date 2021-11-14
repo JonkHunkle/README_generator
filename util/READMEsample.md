@@ -7,12 +7,14 @@
   **Table of Contents**
 
   ---
-1. [Documentation](#documentation)  
-2. [Quick-use Guide](#guide)
-3. [How to Contribute](#contribute)
+
+1. [Documentation](#docs) 
+2. [Quick-use Guide](#use)
+3. [How to Contribute](#add)
 4. [Test Run](#run)
-      
+
 ---  
+
 
 ## Documentation
 
@@ -21,6 +23,7 @@ npm install -y
 
 ---
 
+
 ## Quick-use Guide
 
 ---
@@ -28,6 +31,8 @@ npm install -y
 answer questions for a readme
 
 ---
+
+<a name="add"></a>
 
 ## How to contribute
 
