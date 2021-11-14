@@ -27,8 +27,7 @@ inquirer
     {
       name: "installation",
       type: "input",
-      message: "How can I install the needed utilities? ",
-      suffix:'(place <br/> in between each command):'
+      message: "How can I install the needed utilities? "
     },
     {
       name: "howTo",
@@ -49,8 +48,6 @@ inquirer
   ])
   .then((answer) => {
 
-    install='*'+answer.installation.split('<br/>').map()
-    console.log(install)
     switch (answer.license) {
       case "Apache":
         badge =
@@ -91,7 +88,7 @@ ${badge}
 ## Documentation
 
 
-${install}  
+${answer.installation}  
 
 ---
 
@@ -110,12 +107,6 @@ ${answer.howTo}
 ${answer.contribute}
 
 ---
-
-## Test Run
-
----
-
-
       `,
       (err) => {
         err ? console.error(err) : console.log("Success!");
