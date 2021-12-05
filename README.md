@@ -58,6 +58,6 @@ You will need to have inquirer installed:
 
 ### Trial run:
 
-<img src="./util/trial.gif" alt="alt text" title="image Title" width="400"/>
+[trial run video](https://drive.google.com/file/d/1gGgNDS2ynqLmApSPvVIDkCMZJxm4Go4_/view?usp=sharing)
 
 ---
