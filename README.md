@@ -60,4 +60,6 @@ You will need to have inquirer installed:
 
 [trial run video](https://drive.google.com/file/d/1gGgNDS2ynqLmApSPvVIDkCMZJxm4Go4_/view?usp=sharing)
 
+![readme](https://i.imgur.com/Piy2WPt.png)
+
 ---
